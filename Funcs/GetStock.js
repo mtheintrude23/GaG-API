@@ -45,10 +45,10 @@ function formatStocks(data) {
         gearStock: formatStockItems(stocks.gearStock),
         eggStock: formatStockItems(stocks.eggStock),
         seedsStock: formatStockItems(stocks.seedsStock),
-        nightStock: formatStockItems(stocks.nightStock),
-        bloodStock: formatStockItems(stocks.bloodStock),
         cosmeticsStock: formatStockItems(stocks.cosmeticsStock),
-        
+        honeyStock: formatStockItems(stocks.honeyStock),
+        nightStock: formatStockItems(stocks.nightStock),
+
         lastSeen: {
             Seeds: formatLastSeenItems(stocks.lastSeen.Seeds),
             Gears: formatLastSeenItems(stocks.lastSeen.Gears),
