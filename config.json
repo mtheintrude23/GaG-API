@@ -2,5 +2,5 @@
   "IPWhitelist": false,
   "WhitelistedIPs": [],
   "Dashboard": true,
-  "Port": 3000
+  "Port": 5000
 }
